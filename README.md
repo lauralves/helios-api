@@ -10,7 +10,7 @@ The project is designed with a modular architecture that separates data acquisit
 
 The following diagram illustrates the architecture of the Helios system:
 
-![System Architecture](docs/architecture/arch.png)
+![System Architecture](@docs/architecture/arch.png)
 
 ### Key Components
 
