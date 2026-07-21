@@ -1,0 +1,6 @@
+services:
+  helios-api:
+    build: .
+    container_name: helios-api
+    ports:
+      - "8080:8080"

@@ -1,0 +1,23 @@
+# Ignorar diretórios de build local
+target/
+**/target/
+
+# Ignorar IDEs e configurações pessoais
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Ignorar arquivos do Git
+.git/
+.gitignore
+.gitattributes
+
+# Ignorar documentação e diagramas no build context
+@docs/
+README.md
+
+# Ignorar logs e arquivos temporários
+*.log
+.DS_Store
