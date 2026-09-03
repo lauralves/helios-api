@@ -5,4 +5,4 @@
  * can use to interact with the application.
  * </p>
  */
-package io.github.lauralves.helios_api.ports.in;
+package io.github.lauralves.helios_api.application.ports.in;

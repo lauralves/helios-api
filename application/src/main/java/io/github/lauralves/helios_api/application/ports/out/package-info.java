@@ -5,4 +5,4 @@
  * external systems (e.g., databases, external APIs, message brokers).
  * </p>
  */
-package io.github.lauralves.helios_api.ports.out;
+package io.github.lauralves.helios_api.application.ports.out;
