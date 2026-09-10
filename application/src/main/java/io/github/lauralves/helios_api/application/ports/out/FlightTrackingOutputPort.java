@@ -6,7 +6,7 @@ import io.github.lauralves.helios_api.domain.Icao24;
 import java.util.List;
 import java.util.Optional;
 
-public interface FlightTrackingPort {
+public interface FlightTrackingOutputPort {
 
     Optional<FlightState> getFlight(Icao24 icao24);
 
