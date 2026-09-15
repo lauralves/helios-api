@@ -1,5 +1,6 @@
 package io.github.lauralves.helios_api.adapters.out.gateway;
 
+import io.github.lauralves.helios_api.adapters.out.gateway.dto.OpenSkyStatesResponse;
 import io.github.lauralves.helios_api.application.ports.out.FlightTrackingOutputPort;
 import io.github.lauralves.helios_api.domain.FlightState;
 import io.github.lauralves.helios_api.domain.GeoCoordinates;
