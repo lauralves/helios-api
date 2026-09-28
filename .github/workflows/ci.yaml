@@ -12,7 +12,7 @@ jobs:
       - name: Run TruffleHog
         uses: trufflesecurity/trufflehog@main
   tests:
-    name: Tests
+    name: tests
     runs-on: ${{ vars.RUNS_ON }}
 
     steps:
