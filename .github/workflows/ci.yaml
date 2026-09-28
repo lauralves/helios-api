@@ -21,7 +21,7 @@ jobs:
       - name: Setup jdk
         uses: actions/setup-java@v4
         with:
-          java-version: ${{ env.JAVA_VERSION }}
+          java-version: ${{ vars.JAVA_VERSION }}
           distribution: 'temurin'
           cache: 'maven'
 
